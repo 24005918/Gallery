@@ -1,3 +1,12 @@
+.
+
+
+
+
+
+
+
+
 # Ex.08 Design of Interactive Image Gallery
 # Date:13-11-2025
 # AIM:
