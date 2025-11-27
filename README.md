@@ -205,6 +205,7 @@ Publish the website in the given URL.
 ![Screenshot 2024-12-15 211310](https://github.com/user-attachments/assets/cc2bf4f0-9d53-454d-bf98-b90b5abf44a4)
 ![Screenshot 2024-12-15 211324](https://github.com/user-attachments/assets/1639afc1-8719-40a5-9f51-d3022d36a9a5)
 ![Screenshot 2024-12-15 211344](https://github.com/user-attachments/assets/77b176a2-8da2-4711-a0e4-00c29e2483f1)
+
 ![Screenshot 2024-12-15 211400](https://github.com/user-attachments/assets/28c7fbb2-cbb6-4144-ae5b-a95e1c8d9fde)
 ![Screenshot 2024-12-15 211416](https://github.com/user-attachments/assets/beae49d8-8dbb-4c48-9efa-6d6d77ce678f)
 ![Screenshot 2024-12-15 211431](https://github.com/user-attachments/assets/5b72c14d-06cc-4037-83bc-493614399651)
